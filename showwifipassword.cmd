@@ -1,0 +1,1 @@
+netsh wlan show profiles name="Shanmukha-Star" key=clear

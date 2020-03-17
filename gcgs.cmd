@@ -1,0 +1,1 @@
+gulp clean & gulp serve

@@ -1,0 +1,1 @@
+set PATH=C:\Raju\Software\Mavens\apache-maven-3.2.2\bin;%PATH%;
