@@ -1,0 +1,1 @@
+tnc localhost -port %1
