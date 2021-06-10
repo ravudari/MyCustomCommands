@@ -1,0 +1,1 @@
+jdk11 & java -jar C:\Users\rajua\git\ravudari\MouseMove\target\MouseMove.jar
