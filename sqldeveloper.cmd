@@ -1,1 +1,1 @@
-C:\Raju\IDEs\sqldeveloper\sqldeveloper.exe
+C:\Raju\Software\IDEs\sqldeveloper\sqldeveloper.exe

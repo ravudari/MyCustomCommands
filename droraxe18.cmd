@@ -1,0 +1,1 @@
+docker run -d -p 1521:1521 --name oraxe18 -e ORACLE_PASSWORD=abc -v oraxe18-vol:/opt/oracle/oradata gvenzl/oracle-xe:18

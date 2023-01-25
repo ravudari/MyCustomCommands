@@ -1,0 +1,1 @@
+grails -Dgrails.env=local run-app
