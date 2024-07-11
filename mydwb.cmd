@@ -1,1 +1,0 @@
-docker run --rm -it -p 8080:8080 -p 8001:8001 -d --name dwb mydwb

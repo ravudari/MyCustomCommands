@@ -1,1 +1,1 @@
-netsh wlan show profiles name="Shanmukha-Star" key=clear
+netsh wlan show profiles name="Qualstar" key=clear
